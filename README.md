@@ -1,22 +1,22 @@
-# Animal Shelter frontend dokumentáció
-## [Használati útmutató](https://1drv.ms/w/c/f5d198d8a2b3ea38/EXIG_EQfV1NMts5fzctL7jkBZSAKyxpeNHW9hmPXjcOFAw?e=AmKEhM)
+# Animal Shelter frontend documentation
+## [User manual (in hungarian)](https://1drv.ms/w/c/f5d198d8a2b3ea38/EXIG_EQfV1NMts5fzctL7jkBZSAKyxpeNHW9hmPXjcOFAw?e=AmKEhM)
 
-### Felhasznált technológiák: Vite & React
+### Technologies: Vite & React
 
-### formázás: CSS, bootstrap, MaterialUI
+### Design: CSS, bootstrap, MaterialUI
 
-### Backenddel való kommunikációra használt eszközök: Axios
+### Tools for communicating with backend: Axios
 
-# Telepítési útmutató:
-klónozza a github repot:
+# Installation guide:
+clone the github repository:
 ```
   git clone https://github.com/Halfsa/animal-shelter-frontend.git
 ```
-nyissa meg a projektet és futtassa a következő parancsot:
+open the project folder in VSCode, IntelliJ IDEA or CMD, and run:
 ```
   npm install
 ```
-majd futtassa a frontend applikációt:
+then run the following command:
 ```
   npm run dev
 ```
