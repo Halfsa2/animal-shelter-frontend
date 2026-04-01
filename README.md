@@ -18,5 +18,5 @@ nyissa meg a projektet és futtassa a következő parancsot:
 ```
 majd futtassa a frontend applikációt:
 ```
-  vite
+  npm run dev
 ```
